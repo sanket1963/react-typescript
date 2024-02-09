@@ -14,7 +14,7 @@ const AddTodo = () => {
 
   return (
     <>
-      <form className="bg-blue-100 container mx-auto px-4" onSubmit={handleFormSubmit}>
+      <form className="container mx-auto px-4" onSubmit={handleFormSubmit}>
         <label
           htmlFor="default-search"
           className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"

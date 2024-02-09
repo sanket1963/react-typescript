@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Router } from "react-router-dom";
+import { BrowserRouter} from "react-router-dom";
 import AddTodo from "./components/addTodo";
 import Navbar from "./components/navbar";
 import Todos from "./components/todos";
